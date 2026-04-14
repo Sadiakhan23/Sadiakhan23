@@ -70,9 +70,9 @@ I have hands-on expertise in Excel, SQL, Python, Power BI, and Tableau, enabling
 
 
 <ul>
-  <li><strong>Project 1:</strong> <a href="PROJECT_1_REPO_URL">REPO LINK</a> | <a href="PROJECT_1_LIVE_URL">LIVE DEMO</a></li>
-  <li><strong>Project 2:</strong> <a href="PROJECT_2_REPO_URL">REPO LINK</a> | <a href="PROJECT_2_LIVE_URL">LIVE DEMO</a></li>
-  <li><strong>Project 3:</strong> <a href="PROJECT_3_REPO_URL">REPO LINK</a> | <a href="PROJECT_3_LIVE_URL">LIVE DEMO</a></li>
+  <li><strong>Project 1:</strong> <a href="Power BI Projects">REPO LINK</a> | <a href="[PROJECT_1_LIVE_URL](https://sadiakhan23.github.io/Portfolio/Power%20BI%20Dashboard.html)">Power BI project Links</a></li>
+  <li><strong>Project 2:</strong> <a href="Python Projects">REPO LINK</a> | <a href="https://sadiakhan23.github.io/Portfolio/try.html">Python Project Links</a></li>
+  <li><strong>Project 3:</strong> <a href="SQL Activities">REPO LINK</a> | <a href="Power BI project Links">SQL Activities Link</a></li>
 </ul>
 
 ---
