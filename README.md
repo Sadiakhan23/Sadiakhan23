@@ -17,9 +17,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-I am an analytical and detail-oriented data professional with a strong background in data analytics and digital marketing. My experience spans campaign optimisation, media buying, and social media performance analysis, where I use data to improve targeting, engagement, and return on investment. I am particularly skilled at working with large datasets, identifying patterns, and translating findings into meaningful business recommendations.
-
-I have hands-on expertise in Excel, SQL, Python, Power BI, and Tableau, enabling me to monitor and evaluate marketing performance across multiple channels, including display, video, mobile, and social platforms. My approach combines technical problem-solving with a strong understanding of marketing objectives, allowing me to bridge the gap between data and business strategy in fast-paced, client-driven environments.  
+I am an analytical and detail-oriented data professional with a strong background in data analytics and digital marketing. My experience spans campaign optimisation, media buying, and social media performance analysis, where I use data to improve targeting, engagement, and return on investment. I am particularly skilled at working with large datasets, identifying patterns, and translating findings into meaningful business recommendations.I have hands-on expertise in Excel, SQL, Python, Power BI, and Tableau, enabling me to monitor and evaluate marketing performance across multiple channels, including display, video, mobile, and social platforms. My approach combines technical problem-solving with a strong understanding of marketing objectives, allowing me to bridge the gap between data and business strategy in fast-paced, client-driven environments.  
 </p>
 
 ---
