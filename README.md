@@ -73,7 +73,7 @@ I have hands-on expertise in Excel, SQL, Python, Power BI, and Tableau, enabling
   <li><strong>Project 1:</strong> <a href="Power BI Projects">LINK</a> | <a href="https://sadiakhan23.github.io/Portfolio/Power%20BI%20Dashboard.html">Power BI project </a></li>
   
   <li><strong>Project 2:</strong> <a href="Python Projects"> LINK</a> | <a href="https://sadiakhan23.github.io/Portfolio/try.html">Python Project </a></li>
-  <li><strong>Project 3:</strong> <a href="SQL Activities"> LINK</a> | <a href="Power BI project">SQL Activities Link</a></li>
+  <li><strong>Project 3:</strong> <a href="SQL Activities"> LINK</a> | <a href="Power BI project">SQL Activities </a></li>
 </ul>
 
 ---
@@ -81,7 +81,7 @@ I have hands-on expertise in Excel, SQL, Python, Power BI, and Tableau, enabling
 ## Future Project
 <ul>
   <li>Marketing Campaign Performance Optimisation</li>
-  <li>E-commerce Sales & Funnel Analysis</li>
+  <li>E-commerce Sales Analysis</li>
   <li>Machine Learning & Predictive Analytics</li>
   <li>Cloud Data Platforms (AWS / Azure)</li>
 </ul>
@@ -91,7 +91,7 @@ I have hands-on expertise in Excel, SQL, Python, Power BI, and Tableau, enabling
 ## Connect With Me
 <p align="center">
 <!-- linkdin-->
-  <a href="Https://" target="_blank">
+  <a href="https://www.linkedin.com/in/sadia-khan-63a179194?" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
