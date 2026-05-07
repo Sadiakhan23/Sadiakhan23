@@ -117,7 +117,7 @@ My approach combines technical problem-solving with a strong understanding of ma
 
 
 <ul>
-  <li><strong>Project 1:</strong> <a href="Power BI Projects">LINK</a> | <a href="https://sadiakhan23.github.io/Portfolio/Power%20BI%20Dashboard.html">Power BI project </a></li>
+  <li><strong>Project 1:</strong> <a href="UK Crime Dataset- Power BI Projects">LINK</a> | <a href="https://github.com/Sadiakhan23/UK_Crime_Analysis">Power BI project </a></li>
   
   <li><strong>Project 2:</strong> <a href="Python Projects"> LINK</a> | <a href="https://sadiakhan23.github.io/Portfolio/try.html">Python Project </a></li>
   <li><strong>Project 3:</strong> <a href="SQL Activities"> LINK</a> | <a href="Power BI project">SQL Activities </a></li>
