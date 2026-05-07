@@ -121,6 +121,8 @@ My approach combines technical problem-solving with a strong understanding of ma
   
   <li><strong>Project 2:</strong> <a href="Python Projects"> LINK</a> | <a href="https://sadiakhan23.github.io/Portfolio/try.html">Python Project </a></li>
   <li><strong>Project 3:</strong> <a href="SQL Activities"> LINK</a> | <a href="Power BI project">SQL Activities </a></li>
+   <li><strong>Project 4:</strong> <a href="Tableau"> LINK</a> | <a href="https://github.com/Sadiakhan23/Bank-Data-_-UCI">SQL Activities </a></li>
+  
 </ul>
 
 ---
