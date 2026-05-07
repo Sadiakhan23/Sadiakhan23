@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sadia Khan</h1>
 <h2 align="center"> Data Analysis | Business Analysis</h2>
-<h3 align="center"> Specializing in Power BI Dashboard</h3>
+<h3 align="center"> Specializing in Power BI & Tableau Dashboard</h3>
 
 
 
