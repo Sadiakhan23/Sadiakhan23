@@ -72,6 +72,7 @@ I am an analytical and detail-oriented data professional with a strong backgroun
   
   <li><strong>Project 2:</strong> <a href="Python Projects"> LINK</a> | <a href="https://sadiakhan23.github.io/Portfolio/try.html">Python Project </a></li>
   <li><strong>Project 3:</strong> <a href="SQL Activities"> LINK</a> | <a href="Power BI project">SQL Activities </a></li>
+  <li><strong>Project 4:</strong> <a href="Tableau Projects"> LINK</a> | <a href="Tableau project">Tableau Projects</a></li>
 </ul>
 
 ---
