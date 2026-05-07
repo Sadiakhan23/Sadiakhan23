@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<a href="https://sadiakhan23.github.io/Portfolio/index.html"><h2>View My Portfoilo Here</h2></a>
+<h2><a href="https://sadiakhan23.github.io/Portfolio/index.html">View My Portfolio Here</a></h2>
 </div>
 
 ---
