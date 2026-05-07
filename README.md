@@ -147,6 +147,4 @@ My approach combines technical problem-solving with a strong understanding of ma
 </p>
 
 <p align="center"><strong>Thanks for visiting!</strong></p>
-Sadia.md
-Displaying Sadia.md.
-Inserted darren@itonlinelearning.com.
+
