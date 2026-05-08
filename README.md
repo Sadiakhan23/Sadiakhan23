@@ -122,7 +122,7 @@ My approach combines technical problem-solving with a strong understanding of ma
 
 <li><strong>Project 3:</strong> <a href="https://github.com/Sadiakhan23/Bank-Data-_-UCI">Bank Data Tableau Project </a></li> 
 <li>
-  <strong>Project 4:</strong>  <a href="https://github.com/Sadiakhan23/Mobile-Phone-Data-for-Analysis-and-Visualisation/blob/main/README.md">
+  <strong>Project 4:</strong>  <a href="https://github.com/Sadiakhan23/Mobile-Phone-Data-for-Analysis-and-Visualisation/tree/main">
     Mobile Phone Cleaning & Visualisation with Python
   </a>
 </li>
