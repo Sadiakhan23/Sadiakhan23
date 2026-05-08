@@ -120,9 +120,11 @@ My approach combines technical problem-solving with a strong understanding of ma
 <li><strong>Project 1:</strong> <a href="https://github.com/Sadiakhan23/UK_Crime_Analysis">UK Crime Dataset- Power BI</a></li>
 <li><strong>Project 2:</strong> <a href="https://github.com/Sadiakhan23/Churn-Analysis/tree/main">Churn Analysis- Power BI</a></li>
 
-<li><strong>Project 2:</strong> <a href="https://github.com/Sadiakhan23/Bank-Data-_-UCI">Bank Data Tableau Project </a></li>  
-<li><strong>Project 4:</strong> <a href="https://sadiakhan23.github.io/Portfolio/try.html">Python Projects </a></li>
-<li><strong>Project 5:</strong> <a href="Power BI project">SQL Activities </a></li>
+<li><strong>Project 3:</strong> <a href="https://github.com/Sadiakhan23/Bank-Data-_-UCI">Bank Data Tableau Project </a></li> 
+<li><strong>Project 4:</strong> <a href="https://github.com/Sadiakhan23/Mobile-Phone-Data-for-Analysis-and-Visualisation/blob/main/README.md"Mobile Phone Cleaning & Visualisation with Python </a></li> 
+
+<li><strong>Project 5:</strong> <a href="https://sadiakhan23.github.io/Portfolio/try.html">Python Projects </a></li>
+<li><strong>Project 6:</strong> <a href="Power BI project">SQL Activities </a></li>
   
 </ul>
 
