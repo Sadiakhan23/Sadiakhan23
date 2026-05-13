@@ -129,8 +129,7 @@ My approach combines technical problem-solving with a strong understanding of ma
 
 <li><strong>Project 5:</strong> <a href="https://github.com/Sadiakhan23/Project-1-Exploratory-Data-Analysis-EDA-on-Sales-Data/tree/main">Sales Data EDA </a></li>
 
-<li><strong>Project 6:</strong> <a href="https://sadiakhan23.github.io/Portfolio/try.html">Python Projects </a></li>
-<li><strong>Project 7:</strong> <a href="Power BI project">SQL Activities </a></li>
+<li><strong>Project 6:</strong> <a href="https://github.com/Sadiakhan23/operational-data-for-portfolio">SQL Project: Operational Data </a></li>
 
 
 
